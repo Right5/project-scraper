@@ -1,6 +1,6 @@
 {
   "name": "project-scraper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A script to generate a project structure report and collect file contents.",
   "main": "bin/projectScraper.js",
   "bin": {
