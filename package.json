@@ -9,8 +9,19 @@
   "scripts": {
     "start": "node bin/projectScraper.js"
   },
-  "author": "Your Name",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Right5/project-scraper.git"
+  },
+  "keywords": [
+    "project",
+    "scraper",
+    "structure",
+    "report"
+  ],
+  "author": "Martin Dedik",
   "license": "MIT",
+  "homepage": "https://github.com/Right5/project-scraper",
   "dependencies": {
     "tree-cli": "^0.6.7"
   }
