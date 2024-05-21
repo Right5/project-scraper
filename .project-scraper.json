@@ -1,0 +1,10 @@
+{
+  "treeCliPrompt": "npx tree --ignore node_modules/, .git/, .gitignore -l 3",
+  "outputFile": "_generated/project-scraper-report.txt",
+  "platform": "linux",
+  "paths": [
+    ".project-scraper.json",
+    "package.json",
+    "bin"
+  ]
+}

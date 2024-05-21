@@ -1,0 +1,17 @@
+{
+  "name": "project-scraper",
+  "version": "1.0.0",
+  "description": "A script to generate a project structure report and collect file contents.",
+  "main": "bin/projectScraper.js",
+  "bin": {
+    "project-scraper": "bin/projectScraper.js"
+  },
+  "scripts": {
+    "start": "node bin/projectScraper.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "tree-cli": "^0.6.7"
+  }
+}
