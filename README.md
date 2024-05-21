@@ -1,4 +1,4 @@
-#Project Scraper
+# Project Scraper
 A script to generate a project structure report and collect file contents.
 
 ## Project Overview
@@ -43,5 +43,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Author
 Martin Dedik
-# project-scraper
-# project-scraper
